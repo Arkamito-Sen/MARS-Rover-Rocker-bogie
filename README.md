@@ -17,3 +17,5 @@ So to Open these Files, one must have Catia v5 pre-installed in his/her PC.
 -If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
 
 Google Drive Link for CAD files:
+
+# **Images of the CAD model designed and rendered in CATIA v5R21:**  
