@@ -46,7 +46,8 @@ The objective behind evolution of rocker bogie suspension system is to develop a
 
 ## Rover Differential Bar:  
 
-![image](https://user-images.githubusercontent.com/84036074/126450229-e3a86cac-adc0-4698-a676-9b054ed22500.png)
+![image](https://user-images.githubusercontent.com/84036074/126450229-e3a86cac-adc0-4698-a676-9b054ed22500.png)  
+![image](https://user-images.githubusercontent.com/84036074/126451094-7d233801-dce9-450e-806e-9ca8ac9255cf.png)
 ^ Rendered Differential Bar Assembly
 
 ![image](https://user-images.githubusercontent.com/84036074/126439542-6938b25b-6712-4405-88f6-473598392724.png)  
