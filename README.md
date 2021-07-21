@@ -16,7 +16,7 @@ So to Open these Files, one must have Catia v5 pre-installed in his/her PC.
 
 -If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
 
-Google Drive Link for CAD files:
+Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p9MR73s3xgTbFyu9M9O7UJrci7?usp=sharing
 
 # **Images of the CAD model designed and rendered in CATIA v5R21:**  
 
@@ -33,6 +33,8 @@ Google Drive Link for CAD files:
 ![image](https://user-images.githubusercontent.com/84036074/126433965-282128df-540f-44fe-8ec5-ab61621502a5.png)  
 ![image](https://user-images.githubusercontent.com/84036074/126434053-984c0027-dff6-4a9f-a4d6-6d617cb405b4.png)
 ![image](https://user-images.githubusercontent.com/84036074/126434063-493e131f-b857-4a9e-9243-07f9a52053d6.png)
+^ Rendered Images of the Assembly design in CATIA v5 
+
 ![image](https://user-images.githubusercontent.com/84036074/126434086-cd1ea51c-d7e1-4db6-bb41-3eadb9bcdfb6.png)
 ![image](https://user-images.githubusercontent.com/84036074/126434092-e4fb5622-bdfd-468a-bd87-99e9db53b78d.png)
 ![image](https://user-images.githubusercontent.com/84036074/126434101-e4b8a05e-1d98-4c0c-ac88-4a5e637b757b.png)
