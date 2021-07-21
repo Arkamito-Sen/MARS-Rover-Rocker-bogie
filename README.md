@@ -111,11 +111,11 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 
 # **FINAL Assembly DESIGN:**  
 
-![image](https://user-images.githubusercontent.com/84036074/126443728-3abdcba1-8f8c-4a4e-b484-c0787067f3a4.png)
+![image](https://user-images.githubusercontent.com/84036074/126443728-3abdcba1-8f8c-4a4e-b484-c0787067f3a4.png)  
 ^ Catia v5 Assembly Model of the Rover Rocker Bogie.  
 
 ![image](https://user-images.githubusercontent.com/84036074/126443812-1d48754f-b62d-409a-a400-45c9834c1e0a.png)  
-^Rendered Image of the Final Product, using ### **Titanium framework**, with ### **Aluminium body**, and ### **Aluminium wheels**.
+^Rendered Image of the Final Product, using - **Titanium framework**, with - **Aluminium body**, and - **Aluminium wheels**.
 
 ![image](https://user-images.githubusercontent.com/84036074/126444052-e4a3112b-3526-4ff8-ad93-66c272b610ef.png)
 ![image](https://user-images.githubusercontent.com/84036074/126444083-103bd776-13ce-4ba4-bc77-2f1530bdef93.png)
