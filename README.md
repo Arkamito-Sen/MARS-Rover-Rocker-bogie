@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/84036074/126301984-ffd4b627-9b29-48ff-aee7-f9e64355e841.png)
 ^Rendered Image of the Rover Rocker bogie Assmebly in Catia v5R21
 
-## Description:  
+## **Description:**  
 
 Rocker bogie mechanism is a mechanism primarily used in the Mars rovers to overcome the rough terrains while maintaining stability.It consists of six legs with wheel each driven by a separate motor, mounted. One pair of front legs connected to each other by a differential. The pair of hind legs on the same side are pivoted in the middle and attatched to the differential using another framework. The Body has the ability to rise/up and down, thus enabling the Rover to get more stability at different terrains by adjusting its Centre of Gravity. The Body height adjustment system helps the rover to collect ground samples, or take ground images with a better view. More vibrations and jerks lead to faster wear and tear in sensors, circuit boards and cameras decreasing their life span. The rocker bogie mechanism was designed keeping this in mind by providing maximum stability in all terrains.
 - I have done the complete Assembly Model of the entire Design, and Rendered it too, in Catia v5.
