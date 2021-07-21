@@ -5,4 +5,4 @@
 
 ## Description:  
 
-Rocker bogie mechanism is a mechanism primarily used in the mars rovers to overcome the rough terrains while maintaining stability.It consists of two arms with wheel mounted to each. Both arms are connected through a movable joint. More vibrations and jerks lead to faster wear and tear in sensors, circuit boards and cameras. The rocker bogie mechanism was designed keeping this in mind by providing maximum stability in all terrains.
+Rocker bogie mechanism is a mechanism primarily used in the mars rovers to overcome the rough terrains while maintaining stability.It consists of two arms with wheel mounted to each. Both arms are connected through a movable joint. More vibrations and jerks lead to faster wear and tear in sensors, circuit boards and cameras decreasing their life span. The rocker bogie mechanism was designed keeping this in mind by providing maximum stability in all terrains.
