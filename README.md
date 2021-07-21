@@ -40,6 +40,9 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ![image](https://user-images.githubusercontent.com/84036074/126434101-e4b8a05e-1d98-4c0c-ac88-4a5e637b757b.png)  
 ^ Catia v5 Wheel design  
 
+![image](https://user-images.githubusercontent.com/84036074/126439542-6938b25b-6712-4405-88f6-473598392724.png)
+^ Sketch showing how the differential will help the rover to make all the wheel touch the ground this increasing stability, even after the ground being rugged with steep ups and downs. Thus enabling the rover to move in all terrains with great ease.  
+
 
 
 
