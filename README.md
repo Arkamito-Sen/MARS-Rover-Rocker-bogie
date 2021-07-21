@@ -19,3 +19,6 @@ So to Open these Files, one must have Catia v5 pre-installed in his/her PC.
 Google Drive Link for CAD files:
 
 # **Images of the CAD model designed and rendered in CATIA v5R21:**  
+
+![image](https://user-images.githubusercontent.com/84036074/126433019-48d6d6cc-4a6d-4aab-8dd6-fdcc0d45e83a.png)
+
