@@ -57,9 +57,21 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ![image](https://user-images.githubusercontent.com/84036074/126440561-89569420-faa5-4dc4-bad4-88288c0e2212.png)  
 ^ (Catia v5 , Assembly Model of Differential, Wheel, Legs, Gearbox)  
 
-## Six- Wheel Drive Assembly  
+## Six- Wheel Drive Assembly:  
 ![image](https://user-images.githubusercontent.com/84036074/126441174-2278c2cc-e000-4d56-af65-e61eec8b9d6e.png)  
  
- 
+## Front and Rear Legs:  
+
+![image](https://user-images.githubusercontent.com/84036074/126441393-540778e4-7fde-4d7b-b953-24e68bd9f21a.png)  
+^ Front Leg  
+
+![image](https://user-images.githubusercontent.com/84036074/126441445-bcc4953a-8779-4163-9b43-1ba643b84896.png)  
+^ Lower Rear Leg part  
+
+![image](https://user-images.githubusercontent.com/84036074/126441536-8c495e47-e5ee-4772-bc65-7f179b6cbc67.png)  
+^ Upper Rear leg part  
+
+
+
 
 
