@@ -73,6 +73,35 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 
 # **Stress Analysis using Catia v5:**  
 
+Von Mises Stress Analysis on the Front leg:  
+![image](https://user-images.githubusercontent.com/84036074/126442093-5a25939e-e581-4af6-9f80-44030cb222a9.png)  
+
+Displacement Analysis on the Front leg:  
+![image](https://user-images.githubusercontent.com/84036074/126442211-6bb8a884-98cd-40af-946a-d655e1070412.png)  
+
+Principle Shearing Stress on the Front Leg:  
+![image](https://user-images.githubusercontent.com/84036074/126442271-4cfe5017-041f-43d8-92b9-89f8d6be830e.png)  
+
+Displacement Analysis on Lower rear leg part:  
+![image](https://user-images.githubusercontent.com/84036074/126442299-f01a8302-7153-4679-80f2-f8d91e4c3257.png)  
+
+Von Mises Stress Analysis on Lower Rear Leg part:  
+![image](https://user-images.githubusercontent.com/84036074/126442335-bc1d644b-185a-4e84-a661-32753d186e53.png)  
+
+Von Mises Stress Analysis on Upper Rear Leg part:  
+![image](https://user-images.githubusercontent.com/84036074/126442354-bebc6bb7-bfe8-4932-b4d6-95b6c6a9cdd3.png)  
+
+Shearing Stress Analysis on Upper Rear leg part:  
+![Uploading image.png…]()  
+
+
+
+
+
+
+
+
+
 
 
 
