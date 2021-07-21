@@ -9,3 +9,13 @@ Rocker bogie mechanism is a mechanism primarily used in the mars rovers to overc
 - I have done the complete Assembly Model of the entire Design, and Rendered it too, in Catia v5.
 - I have done Stress Analysis of the rover legs(made of Titanium) and Body(made of Aluminium).  
 
+## Software Prerequisites and Installation:  
+
+-The product has been designed in Catia v5r21, and so all the part designs is saved as Catia's native file format(.CATPart), and the Assembly design saved as (.CATProduct).  
+So to Open these Files, one must have Catia v5 pre-installed in his/her PC.  
+
+-If anyone has CAD softwares other than Catia v5r21, for them I have provided the (.stp) file of the Product design, so one can easily open and view the model by opening the (.stp) files in his/her CAD software.  
+
+-One can simulate the "Obstacle detection and Responce" Program if he/she has a TinkerCAD account; By designing the circuit as shown in the Image, and then running the code.  
+
+Google Drive Link for CAD files:
