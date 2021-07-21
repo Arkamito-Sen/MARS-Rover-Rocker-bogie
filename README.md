@@ -71,6 +71,9 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ![image](https://user-images.githubusercontent.com/84036074/126441536-8c495e47-e5ee-4772-bc65-7f179b6cbc67.png)  
 ^ Upper Rear leg part  
 
+# **Stress Analysis using Catia v5:**  
+
+
 
 
 
