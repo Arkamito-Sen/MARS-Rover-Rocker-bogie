@@ -94,14 +94,16 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 **Shearing Stress Analysis on Upper Rear leg part:**  
 ![image](https://user-images.githubusercontent.com/84036074/126442516-8ba8ccdb-0586-4b82-bd75-e86168c28487.png)  
 
-![image](https://user-images.githubusercontent.com/84036074/126443172-816c6d24-1651-48e8-b840-3940089d0246.png)
+![image](https://user-images.githubusercontent.com/84036074/126443172-816c6d24-1651-48e8-b840-3940089d0246.png)  
 ^ Sketch explanation of how a curved framework would increase the reach of the vehicle, in rugged terrain or while climbing up/down steep areas.  
 
 ## **Gearbox:**  
 
-![image](https://user-images.githubusercontent.com/84036074/126443298-fae61b8e-481b-485c-afae-244c8e333391.png)
+![image](https://user-images.githubusercontent.com/84036074/126443298-fae61b8e-481b-485c-afae-244c8e333391.png)  
 ^ Catia v5 , Gear Arrangement part design
 
+![image](https://user-images.githubusercontent.com/84036074/126443439-2b05537f-528e-4d29-9cc0-fae93d3189b8.png)  
+^ Sketch explanation of how the Gearbox would help the Rover body to ris/lower its height above the ground. It will also help the Rover maintain its centre of gravity while undergoing extreme manoeuvres. It will also enable a better scanning of images of the Martian ground by changing body height, or makes it easier to take ground samples for testing in its own pre-installed laboratory.  
 
 
 
