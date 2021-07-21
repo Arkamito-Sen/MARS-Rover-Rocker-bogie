@@ -23,3 +23,5 @@ Google Drive Link for CAD files:
 ![image](https://user-images.githubusercontent.com/84036074/126433019-48d6d6cc-4a6d-4aab-8dd6-fdcc0d45e83a.png)
 
 ![image](https://user-images.githubusercontent.com/84036074/126433270-f15222be-4e8c-41b9-b1f8-1538d2d18400.png)
+
+![image](https://user-images.githubusercontent.com/84036074/126433449-8a39ce6a-bb8c-4c0d-807b-c9a3328dc104.png)
