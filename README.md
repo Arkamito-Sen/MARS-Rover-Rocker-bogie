@@ -1,4 +1,4 @@
-# Mars-Rover-Rocker bogie Design-Model  
+# Mars-Rover-Rocker bogie Design-Model using CATIA v5R21 
  
 ![image](https://user-images.githubusercontent.com/84036074/126301984-ffd4b627-9b29-48ff-aee7-f9e64355e841.png)
 ^Rendered Image of the Rover Rocker bogie Assmebly in Catia v5R21
