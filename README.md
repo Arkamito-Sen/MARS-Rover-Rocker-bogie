@@ -91,7 +91,7 @@ Von Mises Stress Analysis on Lower Rear Leg part:
 Von Mises Stress Analysis on Upper Rear Leg part:  
 ![image](https://user-images.githubusercontent.com/84036074/126442354-bebc6bb7-bfe8-4932-b4d6-95b6c6a9cdd3.png)  
 
-Shearing Stress Analysis on Upper Rear leg part:  
+**Shearing Stress Analysis on Upper Rear leg part:**  
 ![image](https://user-images.githubusercontent.com/84036074/126442516-8ba8ccdb-0586-4b82-bd75-e86168c28487.png)
 
 
