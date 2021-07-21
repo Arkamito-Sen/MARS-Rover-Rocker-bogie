@@ -40,10 +40,22 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ![image](https://user-images.githubusercontent.com/84036074/126434101-e4b8a05e-1d98-4c0c-ac88-4a5e637b757b.png)  
 ^ Catia v5 Wheel design  
 
-## Rover Differential:  
+## Rover Differential Bar:  
 
 ![image](https://user-images.githubusercontent.com/84036074/126439542-6938b25b-6712-4405-88f6-473598392724.png)  
 ^ Sketch showing how the differential will help the rover to make all the wheel touch the ground this increasing stability, even after the ground being rugged with steep ups and downs. Thus enabling the rover to move in all terrains with great ease.  
+
+![image](https://user-images.githubusercontent.com/84036074/126440319-95ac5a9f-e8c9-46cb-a3ef-d49b1db8720e.png)  
+^ Front Isometric view  
+
+![image](https://user-images.githubusercontent.com/84036074/126440376-8dc6d489-85fd-4cf6-9367-01343b93662a.png)  
+^ Catia v5 Assembly showing Front Differntial Bar  
+
+![image](https://user-images.githubusercontent.com/84036074/126440434-1d5156df-3c38-46a9-9a97-01821e07e2a9.png)  
+^ Catia v5 Assembly showing Rear Differential Bar  
+
+![image](https://user-images.githubusercontent.com/84036074/126440561-89569420-faa5-4dc4-bad4-88288c0e2212.png)  
+^ (Catia v5 , Assembly Model of Differential, Wheel, Legs, Gearbox)  
 
 
 
