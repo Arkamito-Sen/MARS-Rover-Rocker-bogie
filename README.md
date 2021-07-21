@@ -92,8 +92,15 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ![image](https://user-images.githubusercontent.com/84036074/126442354-bebc6bb7-bfe8-4932-b4d6-95b6c6a9cdd3.png)  
 
 **Shearing Stress Analysis on Upper Rear leg part:**  
-![image](https://user-images.githubusercontent.com/84036074/126442516-8ba8ccdb-0586-4b82-bd75-e86168c28487.png)
+![image](https://user-images.githubusercontent.com/84036074/126442516-8ba8ccdb-0586-4b82-bd75-e86168c28487.png)  
 
+![image](https://user-images.githubusercontent.com/84036074/126443172-816c6d24-1651-48e8-b840-3940089d0246.png)
+^ Sketch explanation of how a curved framework would increase the reach of the vehicle, in rugged terrain or while climbing up/down steep areas.  
+
+## **Gearbox:**  
+
+![image](https://user-images.githubusercontent.com/84036074/126443298-fae61b8e-481b-485c-afae-244c8e333391.png)
+^ Catia v5 , Gear Arrangement part design
 
 
 
