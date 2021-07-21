@@ -32,7 +32,7 @@ Google Drive Link for CAD files: https://drive.google.com/drive/folders/1sT_Dk7p
 ## Rover Wheel and Front leg Assembly:
 ![image](https://user-images.githubusercontent.com/84036074/126433965-282128df-540f-44fe-8ec5-ab61621502a5.png)  
 ![image](https://user-images.githubusercontent.com/84036074/126434053-984c0027-dff6-4a9f-a4d6-6d617cb405b4.png)
-![image](https://user-images.githubusercontent.com/84036074/126434063-493e131f-b857-4a9e-9243-07f9a52053d6.png)
+![image](https://user-images.githubusercontent.com/84036074/126434063-493e131f-b857-4a9e-9243-07f9a52053d6.png)  
 ^ Rendered Images of the Assembly design in CATIA v5 
 
 ![image](https://user-images.githubusercontent.com/84036074/126434086-cd1ea51c-d7e1-4db6-bb41-3eadb9bcdfb6.png)
